@@ -29,6 +29,7 @@ The test app is separate from your other apps and only asks for:
 - **Background service / keep awake**: keeps the link up during the test
 
 It does **not** ask for location, contacts, messages, calls or photos, and it sends **nothing** by itself.
+The only request it makes on its own is asking this page whether a newer test build exists.
 The log only leaves your phone when you tap **Send log** and choose where to send it. You can uninstall the app
 right after the test.
 
@@ -96,7 +97,7 @@ Chỉ thử khi **xe đứng yên**, bật khoá (không cần nổ máy). Khôn
 
 App thử chỉ xin: **Bluetooth** (Thiết bị ở gần), **mạng / mạng cục bộ** (Wi-Fi của xe, không phải Internet),
 **chạy nền / giữ máy thức** trong lúc thử. **Không** xin vị trí, danh bạ, tin nhắn, cuộc gọi, ảnh; **không** tự
-gửi dữ liệu. Log chỉ rời máy khi bạn bấm **Gửi log** và tự chọn nơi gửi. Thử xong có thể gỡ app ngay.
+gửi dữ liệu. Việc duy nhất app tự làm là hỏi trang này xem đã có bản thử mới chưa. Log chỉ rời máy khi bạn bấm **Gửi log** và tự chọn nơi gửi. Thử xong có thể gỡ app ngay.
 
 ### Cài đặt
 
