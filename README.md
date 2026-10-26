@@ -53,8 +53,8 @@ Each step tells you what to do on the dash, sets the app up for you, ticks off w
 showed:
 
 1. Get ready: force-close MyRide-Link and Motorize, turn off any VPN
-2. Bluetooth pairing (enter the PIN shown on the dash)
-3. Join the bike's Wi-Fi (`LB#…`)
+2. Bluetooth pairing, **with the phone's Wi-Fi off** (enter the PIN shown on the dash)
+3. Join the bike's Wi-Fi (`LB#…`) **only once Bluetooth shows ✓**
 4. Press each handlebar key
 5. If nothing shows on the dash: a second try (still on Wi-Fi)
 6. USB cable
@@ -109,7 +109,7 @@ Tải ở mục **[Releases](../../releases)**.
 ### Thử
 
 Mở app sẽ vào **màn thử từng bước** (tiếng Việt hoặc tiếng Anh, đổi bằng nút **VI / EN**). Mỗi bước nói việc cần
-làm trên đồng hồ, tự cài đặt app, tự đánh dấu bước nào được và hỏi đồng hồ hiện gì. Với iPhone, để app **mở và màn
+làm trên đồng hồ, tự cài đặt app, tự đánh dấu bước nào được và hỏi đồng hồ hiện gì. **Ghép Bluetooth khi Wi-Fi của điện thoại đang tắt**, có ✓ rồi mới vào Wi-Fi của xe. Với iPhone, để app **mở và màn
 hình sáng** trong lúc thử.
 
 ### Gửi log
